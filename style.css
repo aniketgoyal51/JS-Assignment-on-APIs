@@ -1,0 +1,10 @@
+#body {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+#container {
+  padding: 20px;
+  border-radius: 10px;
+  border: 2px solid gray;
+  margin: 100px;
+}
